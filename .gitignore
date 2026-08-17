@@ -1,0 +1,1 @@
+-e "~$*.xlsx\n~$*.xlsm\n~$*.xls\n*.tmp\n.DS_Store\nThumbs.db" 
