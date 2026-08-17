@@ -1,1 +1,6 @@
--e "~$*.xlsx\n~$*.xlsm\n~$*.xls\n*.tmp\n.DS_Store\nThumbs.db" 
+~$*.xlsx
+~$*.xlsm
+~$*.xls
+*.tmp
+.DS_Store
+Thumbs.db-e "~$*.xlsx\n~$*.xlsm\n~$*.xls\n*.tmp\n.DS_Store\nThumbs.db" 
